@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Daniel Stilck Franca's Website - misc</title><link href="https://danielstilckfranca.eu/" rel="alternate"></link><link href="https://danielstilckfranca.eu/feeds/misc.atom.xml" rel="self"></link><id>https://danielstilckfranca.eu/</id><updated>2024-01-01T08:00:00+01:00</updated><entry><title>About</title><link href="https://danielstilckfranca.eu/about.html" rel="alternate"></link><published>2015-07-18T08:00:00+02:00</published><updated>2024-01-01T08:00:00+01:00</updated><author><name>Daniel Stilck Franca</name></author><id>tag:danielstilckfranca.eu,2015-07-18:/about.html</id><summary type="html">&lt;h2&gt;Short Bio&lt;/h2&gt;
+&lt;p&gt;Daniel Stilck França holds an Inria Starting Faculty position hosted by the École Normale Supérieure de Lyon (ENS Lyon) and is a member of the &lt;a href="https://perso.ens-lyon.fr/omar.fawzi/QInfo.html"&gt;QInfo team&lt;/a&gt;.
+He works in the fields of quantum information and computation with a focus on mathematical aspects. Before joining INRIA, Daniel was …&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Short Bio&lt;/h2&gt;
+&lt;p&gt;Daniel Stilck França holds an Inria Starting Faculty position hosted by the École Normale Supérieure de Lyon (ENS Lyon) and is a member of the &lt;a href="https://perso.ens-lyon.fr/omar.fawzi/QInfo.html"&gt;QInfo team&lt;/a&gt;.
+He works in the fields of quantum information and computation with a focus on mathematical aspects. Before joining INRIA, Daniel was a postdoc at the &lt;a href="https://qmath.ku.dk/"&gt;Qmath group&lt;/a&gt; at the University of Copenhagen under the supervision of &lt;a href="https://www.math.ku.dk/english/staff/?pure=en/persons/475476"&gt;Matthias Christandl&lt;/a&gt;, and before that, he did his PhD at the Technical University Munich under the supervision of &lt;a href="http://www-m5.ma.tum.de/Allgemeines/MichaelWolf"&gt;Michael Wolf&lt;/a&gt;. &lt;/p&gt;
+&lt;h2&gt;Research interests&lt;/h2&gt;
+&lt;p&gt;Daniel works on a variety of topics, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Learning of quantum states and channels.&lt;/li&gt;
+&lt;li&gt;Quantum functional inequalities and quantum Gibbs sampling.&lt;/li&gt;
+&lt;li&gt;Quantum algorithms, with a focus on algorithms for optimization.&lt;/li&gt;
+&lt;li&gt;Near-term quantum computing and its limitations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Publications, talks and collaborations&lt;/h2&gt;
+&lt;p&gt;You can find all of his papers on the &lt;a href="https://arxiv.org/search/?query=daniel+stilck+franca&amp;amp;searchtype=all&amp;amp;source=header"&gt;arXiv&lt;/a&gt; and they are also listed on &lt;a href="https://scholar.google.com/citations?user=7xcQ1m4AAAAJ&amp;amp;hl=en"&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Daniel is happy to count on a wide network of collaborators and loves to travel to give talks. Click &lt;a href="https://danielstilckfranca.eu/maps/map_collaborators.html"&gt;here&lt;/a&gt; for an interactive map with all of my collaborators and &lt;a href="https://danielstilckfranca.eu/maps/map_talks.html"&gt;here&lt;/a&gt; for an interactive map of all the places where I have already given talks!&lt;/p&gt;
+&lt;p&gt;This website contains a record of recorded talks and lectures. Please refer to &lt;a href="https://danielstilckfranca.eu/maps/map_collaborators.html"&gt;this page for a list&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Please get in touch if you are interested in a postdoc or internship on any of the topics I am working on! We have several positions in our team!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Do not contact me at my former Copenhagen email address (dsfranca@math.ku.dk). I do not get emails sent there since 05.22!&lt;/strong&gt;&lt;/p&gt;</content><category term="misc"></category></entry></feed>
