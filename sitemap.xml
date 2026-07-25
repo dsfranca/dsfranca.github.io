@@ -13,7 +13,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://danielstilckfranca.eu/about.html</loc>
-<lastmod>2024-01-01T08:00:00+01:00</lastmod>
+<lastmod>2026-07-25T14:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -55,21 +55,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://danielstilckfranca.eu/pages/about.html</loc>
-<lastmod>2024-01-01T08:00:00+01:00</lastmod>
+<lastmod>2026-07-25T14:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://danielstilckfranca.eu/pages/contact.html</loc>
-<lastmod>2018-01-01T08:00:00+01:00</lastmod>
+<lastmod>2026-07-25T14:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://danielstilckfranca.eu/pages/cv.html</loc>
-<lastmod>2018-01-01T08:00:00+01:00</lastmod>
+<lastmod>2026-07-25T14:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -84,6 +84,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://danielstilckfranca.eu/pages/news.html</loc>
 <lastmod>2018-01-01T08:00:00+01:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://danielstilckfranca.eu/pages/prospective-phd-students.html</loc>
+<lastmod>2026-07-25T14:00:00+02:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://danielstilckfranca.eu/pages/prospective-interns.html</loc>
+<lastmod>2026-07-25T14:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
